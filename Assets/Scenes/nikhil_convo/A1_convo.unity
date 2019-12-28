@@ -1117,13 +1117,15 @@ MonoBehaviour:
   aldialogue:
     name: Talking.....
     sentences:
-    - 'You: So where are you from???'
-    - "Ashim: Look man i dont want no \n           Trouble and i dont know \n           the
-      dead man."
-    - "You: Relax i'm just trying to start\n        a conversation here."
-    - 'Ashim: I am from kritipur.'
-    - "You: I'm from baneswor seems \n       like we dont have a connection."
-    - "Ashim: I dont think we have \n           met before."
+    - 'You: Can i ask you something ? '
+    - 'Nikhil: Sure man why not? '
+    - "You: So i have been trying to  \n       figure out the murderer..\n       So
+      where do you live ? "
+    - "Nikhil: ME ? \n         I live at jorpati."
+    - "You: I heard the victim is from\n        near jorpati.."
+    - '"Nikhil turn nervous all of sudden
+
+      and shutters.." '
 --- !u!1 &1827903574
 GameObject:
   m_ObjectHideFlags: 0

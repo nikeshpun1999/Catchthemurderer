@@ -1130,14 +1130,16 @@ MonoBehaviour:
   a3dialogue:
     name: Talking....
     sentences:
-    - "\"You start to observe ashim \nfor some evidence\""
-    - '"He seems anoxious and tensed"'
-    - "You: What's happening? \n       You are sweating heavily."
-    - "Ashim: Nothing man i just get\n           anoxious without my \n           paint
-      brush.... NVM"
-    - '"What might be the reason
+    - '"You start to observe nikhil''s action
 
-      behind his uneasiness??"'
+      for awhile"'
+    - "\"He seems pretty cool with the \nsituation we are in. \""
+    - "You: You seem pretty cool about it?\n       "
+    - "Nikhil: being in this situation is what \n         i was before i took the
+      job. "
+    - '" What might be the reason for such
+
+      honest man to take this dirty job" '
 --- !u!1 &1827903574
 GameObject:
   m_ObjectHideFlags: 0

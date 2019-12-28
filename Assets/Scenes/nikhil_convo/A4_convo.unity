@@ -1117,14 +1117,14 @@ MonoBehaviour:
   a4dialogue:
     name: Talking....
     sentences:
-    - "\"You are trying to see whether \nhe has anger issues or not\""
-    - '"You stepped on his feet"'
-    - "Ashim: What the hell dude \n          Watch your steps"
-    - 'You: Sorry man i didn''t see it'
-    - '"Seems like he has some anger
+    - '"he seemed pretty cool, lets see if
 
-      issues too" '
-    - '"Can he be the murderer?"'
+      he has kill intent or not"'
+    - '"Your kept asking him questions"'
+    - "Nikhil: Look man i've got nothing \n         to do with this murder, if i \n
+      \        had there is nothing to hide."
+    - "\"Well he is a hitman, maybe he is \ntrying to lie\""
+    - "\"But those eyes doesnt seem to \nbe of a liar\"  "
 --- !u!1 &1827903574
 GameObject:
   m_ObjectHideFlags: 0

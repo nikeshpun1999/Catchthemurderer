@@ -25,23 +25,23 @@ public class Mainmenu : MonoBehaviour
    }
    public void nikhilscene()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+2);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+7);
    }
    public void prakashscene()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+3);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+13);
    }
    public void nikeshscene()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+4);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+19);
    }
    public void ashishscene()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+5);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+25);
    }
    public void sagarscene()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+6);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+31);
    }
 
    public void backfromashim()
@@ -50,23 +50,23 @@ public class Mainmenu : MonoBehaviour
    }
    public void backfromnikhil()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-2);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-7);
    }
    public void backfromprakash()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-3);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-13);
    }
    public void backfromnikesh()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-4);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-19);
    }
    public void backfromashish()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-5);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-25);
    }
    public void backfromsagar()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-6);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-31);
    }
  
     public void backbtn()
@@ -76,33 +76,44 @@ public class Mainmenu : MonoBehaviour
     
      public void ashimlocation()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+6);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
    }
    public void ashimoccupation()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+7);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+2);
    }
    public void ashimobserve()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+8);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+3);
    }
    public void ashimtrigger()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+9);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+4);
    }
    public void ashimothermemo()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+10);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+5);
    }
-   public void guess()
+   public void guessfromashim()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+11);
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+36);
    }
+   public void guessfromnikhil()
+   {
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+30);
+   }
+   public void backfromnikhiltotalk()
+   {
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-30);
+   }
+
 
    public void backtotalk()
    {
-       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-12);
+       SceneManager.LoadScene(3);
    }
+  
+  
    
 
 

@@ -1104,14 +1104,13 @@ MonoBehaviour:
   aodialogue:
     name: Talking....
     sentences:
-    - "You: So What do you do for \n        Living? "
-    - "Ashim: Nothing umm i'm just a \n           failed artist"
-    - '"Starting looking away, seems like
-
-      he is lying"'
-    - 'You: Any other hobbies ??'
-    - "Ashim: Look man I'm just an \n           artist i dont remember\n           much."
-    - "\"He looks suspicious but he \ndoesn't seem to have much \nmotivation to kill\""
+    - 'You: So what''s your occupation? '
+    - "Nikhil: Not much i Just do contract \n         with company for money \n         collection."
+    - "You: Do you happen to have any kind\n        of connection with the victim's
+      \n        company? "
+    - "You: I dont remember much but i have\n       done a lot of bad things."
+    - '"Those are the eyes of a killer" '
+    - '" He doesnt seem to be telling lies" '
 --- !u!1 &1827903574
 GameObject:
   m_ObjectHideFlags: 0

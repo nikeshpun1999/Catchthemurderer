@@ -56,7 +56,7 @@ public class A5DialogueManager : MonoBehaviour
     public void EndDialogue()
     {
         animator.SetBool("ItsOpen", false);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-10);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-5);
     }
     
 

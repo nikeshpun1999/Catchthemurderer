@@ -1117,15 +1117,18 @@ MonoBehaviour:
   a5dialogue:
     name: Talking....
     sentences:
-    - "You: Do you remember \r\n        anything else that\r\n        might help? "
-    - "\r\nAshim:I don't even know why\r\n         I am here im just a normal\r\n
-      \        artist done nothing wrong"
-    - '"An announcement is made"'
-    - "\"Mr. ashim here is an artist who \r\nScratched and hospitalized his \r\ngirlfirend
-      in the name of art\""
-    - "\"Everybody is alert and stares \r\nat ashim\""
-    - "\"Ashim terrifiedly explains that\r\nthey were arguing and had \r\nan accident\""
-    - "\"Is he telling the truth or \r\nis he the muderer? \""
+    - "You: Do you remember \r\n        anything else that\r\n        might link to
+      this case? "
+    - "\r\nNikhil: Like i said i do alot of \n         job i have lost count."
+    - '"Announcement is made" '
+    - '"How can you trust a hitman''s
+
+      word?"'
+    - "\"Here's an interesting fact you \nknow his brother was killed in an\naccident
+      on the victim's company\""
+    - "\"Nikhil's eye seemed to be filled \nwith rage all of a sudden\""
+    - "\"Nikhil tries to grab the speaker \nbut it too high to grab\" "
+    - '"Can this man be the killer?"'
 --- !u!1 &1827903574
 GameObject:
   m_ObjectHideFlags: 0

@@ -515,7 +515,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 444060645}
-        m_MethodName: backbtn
+        m_MethodName: backfromashim
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1373,7 +1373,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1694316256}
-        m_MethodName: guess
+        m_MethodName: guessfromashim
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -56,7 +56,7 @@ public class AODialogueManager : MonoBehaviour
     public void EndDialogue()
     {
         animator.SetBool("ItsOpen", false);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-7);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-2);
     }
     
 

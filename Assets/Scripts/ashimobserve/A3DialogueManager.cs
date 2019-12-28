@@ -56,7 +56,7 @@ public class A3DialogueManager : MonoBehaviour
     public void EndDialogue()
     {
         animator.SetBool("ItsOpen", false);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-8);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex-3);
     }
     
 

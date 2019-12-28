@@ -21,21 +21,6 @@ EditorBuildSettings:
     path: Assets/Scenes/ashim_convo_scene.unity
     guid: 34ec3bd00b9306447863c5d83cf1d06c
   - enabled: 1
-    path: Assets/Scenes/nikhil_convo_scene.unity
-    guid: b39428d09c605834b9b08ece772d4f6b
-  - enabled: 1
-    path: Assets/Scenes/prakash_convo_scene.unity
-    guid: 21187c7f28db6c04786f876bc5d5f8e0
-  - enabled: 1
-    path: Assets/Scenes/nikesh_convo_scene.unity
-    guid: 0fa8fd78cc5cda443b19240172c0a774
-  - enabled: 1
-    path: Assets/Scenes/ashish_convo_scene.unity
-    guid: 6f197652706aecc49a4d4ebc8a690df5
-  - enabled: 1
-    path: Assets/Scenes/sagar_convo_scene.unity
-    guid: 77370c48b7c6fda40948cfb29fa624e9
-  - enabled: 1
     path: Assets/Scenes/ashim_convo/A1_convo.unity
     guid: 69ffad23030a59140841be8dbfa1a4e8
   - enabled: 1
@@ -50,6 +35,96 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ashim_convo/A5_convo.unity
     guid: 9308ef00aef0be14f85932639a2d1c2e
+  - enabled: 1
+    path: Assets/Scenes/nikhil_convo_scene.unity
+    guid: b39428d09c605834b9b08ece772d4f6b
+  - enabled: 1
+    path: Assets/Scenes/nikhil_convo/A1_convo.unity
+    guid: b3f68dcb952e8254583b92e69a266ccd
+  - enabled: 1
+    path: Assets/Scenes/nikhil_convo/A2_convo.unity
+    guid: 4b3e316cc5386a242a27bbfe09dc81c0
+  - enabled: 1
+    path: Assets/Scenes/nikhil_convo/A3_convo.unity
+    guid: 9530225f72ec8fd4eb2253062a840ef1
+  - enabled: 1
+    path: Assets/Scenes/nikhil_convo/A4_convo.unity
+    guid: a4ef4cc0a54939740b9cd6be65f600cb
+  - enabled: 1
+    path: Assets/Scenes/nikhil_convo/A5_convo.unity
+    guid: bdee6d99aa8cb9d49afbba7deab606a8
+  - enabled: 1
+    path: Assets/Scenes/prakash_convo_scene.unity
+    guid: 21187c7f28db6c04786f876bc5d5f8e0
+  - enabled: 1
+    path: Assets/Scenes/prakash_convo/A1_convo.unity
+    guid: feba3ccd4366ade4f9f1c2aece7a6c00
+  - enabled: 1
+    path: Assets/Scenes/prakash_convo/A2_convo.unity
+    guid: 0be18f0882f36da458d90c4889978d19
+  - enabled: 1
+    path: Assets/Scenes/prakash_convo/A3_convo.unity
+    guid: a64cd882dcb26a445a7ce06456f57acf
+  - enabled: 1
+    path: Assets/Scenes/prakash_convo/A4_convo.unity
+    guid: 2899b2964dc758d49a4eab3b1f8f1be5
+  - enabled: 1
+    path: Assets/Scenes/prakash_convo/A5_convo.unity
+    guid: c28060de951b0d04abddfb17811e6213
+  - enabled: 1
+    path: Assets/Scenes/nikesh_convo_scene.unity
+    guid: 0fa8fd78cc5cda443b19240172c0a774
+  - enabled: 1
+    path: Assets/Scenes/nikesh_convo/A1_convo.unity
+    guid: a6515891c3d721c40a3f7a0cf5763847
+  - enabled: 1
+    path: Assets/Scenes/nikesh_convo/A2_convo.unity
+    guid: c91fbe7a0a5dc554d922c81f4baeaeb5
+  - enabled: 1
+    path: Assets/Scenes/nikesh_convo/A3_convo.unity
+    guid: a89ddfa5cd81ba947b410b2095adf255
+  - enabled: 1
+    path: Assets/Scenes/nikesh_convo/A4_convo.unity
+    guid: 5fd6eefcefcc62141b332098ae5e3052
+  - enabled: 1
+    path: Assets/Scenes/nikesh_convo/A5_convo.unity
+    guid: cab8b0faf3402754db2416a19432c8f7
+  - enabled: 1
+    path: Assets/Scenes/ashish_convo_scene.unity
+    guid: 6f197652706aecc49a4d4ebc8a690df5
+  - enabled: 1
+    path: Assets/Scenes/ashish_convo/A1_convo.unity
+    guid: baa6b256908d1ed4cb5c3144094e41b0
+  - enabled: 1
+    path: Assets/Scenes/ashish_convo/A2_convo.unity
+    guid: e34fafb1c8eaf104eba6a69906789c43
+  - enabled: 1
+    path: Assets/Scenes/ashish_convo/A3_convo.unity
+    guid: 49a5f52b70f5cee4d9beb20fad2efc86
+  - enabled: 1
+    path: Assets/Scenes/ashish_convo/A4_convo.unity
+    guid: 19a59809736e49a45bdde69fbf6bd877
+  - enabled: 1
+    path: Assets/Scenes/ashish_convo/A5_convo.unity
+    guid: 3122aeacc58ab954bbfe7b3b67322ec5
+  - enabled: 1
+    path: Assets/Scenes/sagar_convo_scene.unity
+    guid: 77370c48b7c6fda40948cfb29fa624e9
+  - enabled: 1
+    path: Assets/Scenes/sagar_convo/A1_convo.unity
+    guid: 18272a44eac2aad449ee42f2bf9ce3f4
+  - enabled: 1
+    path: Assets/Scenes/sagar_convo/A2_convo.unity
+    guid: ab6b0587fc64e3344bcefef304201524
+  - enabled: 1
+    path: Assets/Scenes/sagar_convo/A3_convo.unity
+    guid: 3853d63f92ae1174485ba380f338e9a3
+  - enabled: 1
+    path: Assets/Scenes/sagar_convo/A4_convo.unity
+    guid: fc5b834c1cdfa7d4e92e14e84e740f6c
+  - enabled: 1
+    path: Assets/Scenes/sagar_convo/A5_convo.unity
+    guid: baa87b640d55b0045b5b3f83a7e95f95
   - enabled: 1
     path: Assets/Scenes/guess the muderer.unity
     guid: ea64882c3b8b13d4596a5d05c496c3df
