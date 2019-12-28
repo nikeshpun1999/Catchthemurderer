@@ -112,6 +112,10 @@ public class Mainmenu : MonoBehaviour
    {
        SceneManager.LoadScene(3);
    }
+   public void Toguess()
+   {
+       SceneManager.LoadScene(40);
+   }
   
   
    
